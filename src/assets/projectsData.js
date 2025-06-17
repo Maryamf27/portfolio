@@ -47,7 +47,7 @@ export const projectsData = [
         projectDescription:
             'Explore my digital footprint with my professionally designed portfolio, crafted with precision using HTML and CSS! This visually stunning showcase highlights my skills, experience, and accomplishments, providing a comprehensive overview of my expertise. ',
         imageUrl: 'https://github.com/Maryamf27/imgs/blob/main/Screenshot%202025-01-18%20203455.png?raw=true',
-        projectUrl: 'https://portfolio-clone-6dc6df.netlify.app/'
+        projectUrl: 'https://my-portfolio-270.netlify.app/#/'
     },
 
     // {
