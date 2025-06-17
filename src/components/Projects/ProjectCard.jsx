@@ -7,7 +7,7 @@ function ProjectCard(
   return (
     <div className="project-card">
         <div className="image-container">
-            <a href={projectUrl}
+            <a rel="noreferrer" href={projectUrl}
                 className="project-external-link"
                 target="_blank"
                 >
@@ -25,7 +25,7 @@ function ProjectCard(
         <p className="project-details">
             {projectDescription}
         </p>
-        <a href={projectUrl}
+        <a rel="noreferrer" href={projectUrl}
             className="project-live-link"
             target="_blank">
             View live
