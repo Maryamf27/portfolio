@@ -1,4 +1,18 @@
 export const projectsData = [
+     {
+        projectName: 'AI-Powered Code Reviewer',
+        projectDescription:
+            'This AI-powered web application is a full-stack project developed using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It features an intelligent interface where users can interact with an AI model to receive smart responses, perform tasks, or get recommendations. The frontend is built with React, offering a clean, responsive design, while the backend is managed with Express and Node.js to handle API requests, data flow, and server-side logic. The project is fully integrated with GitHub for continuous deployment and is hosted with Netlify (frontend) and Railway (backend).',
+        imageUrl: 'https://github.com/Maryamf27/imgs/blob/main/ai%20project%20img.png?raw=true',
+        projectUrl: 'https://ai-code-review-project.netlify.app/',
+    },
+  {
+        projectName: 'Password Manager',
+        projectDescription:
+            'Take control of your digital security with our robust Password Manager, expertly crafted with a powerful backend and intuitive frontend using React! This cutting-edge application allows you to securely store, generate, and manage unique passwords for all your online accounts, ensuring your sensitive information remains protected.',
+        imageUrl: 'https://github.com/Maryamf27/imgs/blob/main/Screenshot%202025-01-18%20205851.png?raw=true',
+        projectUrl: 'https://password-manager-bdcaa4.netlify.app/',
+    },
     {
         projectName: 'Todo List',
         projectDescription:
@@ -6,13 +20,7 @@ export const projectsData = [
         imageUrl: 'https://github.com/Maryamf27/imgs/blob/main/Screenshot%202025-01-18%20163952.png?raw=true',
         projectUrl: 'https://todo-app-7343ea.netlify.app/',
     },
-    {
-        projectName: 'Password Manager',
-        projectDescription:
-            'Take control of your digital security with our robust Password Manager, expertly crafted with a powerful backend and intuitive frontend using React! This cutting-edge application allows you to securely store, generate, and manage unique passwords for all your online accounts, ensuring your sensitive information remains protected.',
-        imageUrl: 'https://github.com/Maryamf27/imgs/blob/main/Screenshot%202025-01-18%20205851.png?raw=true',
-        projectUrl: 'https://password-manager-bdcaa4.netlify.app/',
-    },
+   
 
     {
         projectName: 'Weather App',
