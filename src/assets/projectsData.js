@@ -42,13 +42,13 @@ export const projectsData = [
         imageUrl: 'https://github.com/Maryamf27/imgs/blob/main/Screenshot%202025-01-18%20164247.png?raw=true',
         projectUrl: 'https://spotify-clone-3beea6.netlify.app/',
     },
-    {
-        projectName: 'Portfolio Clone',
-        projectDescription:
-            'Explore my digital footprint with my professionally designed portfolio, crafted with precision using HTML and CSS! This visually stunning showcase highlights my skills, experience, and accomplishments, providing a comprehensive overview of my expertise. ',
-        imageUrl: 'https://github.com/Maryamf27/imgs/blob/main/Screenshot%202025-01-18%20203455.png?raw=true',
-        projectUrl: 'https://my-portfolio-270.netlify.app/#/'
-    },
+    // {
+    //     projectName: 'Portfolio Clone',
+    //     projectDescription:
+    //         'Explore my digital footprint with my professionally designed portfolio, crafted with precision using HTML and CSS! This visually stunning showcase highlights my skills, experience, and accomplishments, providing a comprehensive overview of my expertise. ',
+    //     imageUrl: 'https://github.com/Maryamf27/imgs/blob/main/Screenshot%202025-01-18%20203455.png?raw=true',
+    //     projectUrl: 'https://my-portfolio-270.netlify.app/#/'
+    // },
 
     // {
     //     projectName: 'Portfolio Website',
