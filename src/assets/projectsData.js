@@ -61,6 +61,6 @@ export const projectsData = [
         projectName: 'Netflix',
         projectDescription: `Immerse yourself in the ultimate streaming experience with our Netflix clone, expertly crafted using HTML and CSS. This sleek and responsive web application replicates the seamless user experience of the original Netflix platform, boasting a visually stunning interface that perfectly captures the essence of the iconic brand`,
         imageUrl: 'https://github.com/Maryamf27/imgs/blob/main/netflix.png?raw=true',
-        projectUrl: 'https://netflix-project-woad.vercel.app/',
+        projectUrl: 'https://netfliix-project.netlify.app/',
     },
 ];
