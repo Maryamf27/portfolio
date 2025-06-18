@@ -2,7 +2,7 @@ export const projectsData = [
      {
         projectName: 'AI-Powered Code Reviewer',
         projectDescription:
-            'This AI-powered web application is a full-stack project developed using the MERN stack  It features an intelligent interface where users can interact with an AI model to perform tasks, or get recommendations. The frontend is built with React, while the backend is managed with Express and Node.js to handle API requests, data flow, and server-side logic. The project is fully integrated with GitHub for continuous deployment and is hosted with Netlify and Railway (backend).',
+            'This AI-powered web application is a full-stack project developed using the MERN stack. It features an intelligent interface where users can interact with an AI model to receive smart responses, perform tasks, or get recommendations. The application is designed to enhance user productivity and streamline workflows by leveraging the power of artificial intelligence.',
         imageUrl: 'https://github.com/Maryamf27/imgs/blob/main/ai-project-img.png?raw=true',
         projectUrl: 'https://ai-code-review-project.netlify.app/',
     },
