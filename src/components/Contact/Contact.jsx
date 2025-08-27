@@ -11,7 +11,7 @@ import linkedIn from "./../../assets/li.png";
 // import hashnode from "./../../assets/hashnode.png";
 import { useForm, ValidationError } from '@formspree/react';
 function Contact() {
-  const [state, handleSubmit] = useForm("mdobenlw");
+  const [state, handleSubmit] = useForm("mldweqob");
   if (state.succeeded){
       setTimeout(() => {
         document.getElementById("contact-form").reset();
